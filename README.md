@@ -4,5 +4,5 @@
 
 ##Screenshot##
 
-![screen](https://dl.dropboxusercontent.com/u/788402/dl/ALSalaryCalculatorScreenshot-20140701.jpg)
+![screen](https://cdn.rawgit.com/cczallen/ALSalaryCalculator/dd906f3e/ALSalaryCalculatorScreenshot-20140701.jpg)
 
